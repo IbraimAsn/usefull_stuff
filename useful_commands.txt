@@ -1,0 +1,3 @@
+How to create symbolic links on windows 10
+
+New-Item -ItemType Junction -Path "symoblic_link" -Target "link_of_target"
